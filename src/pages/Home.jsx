@@ -7,6 +7,8 @@ import {CategoryList}  from '../components/CategoryList';
 import Search  from '../components/Search';
 
 
+
+
 function Home() {
     const [catalog, setCatalog] = useState([]);
     const [ filteredCatalog, setFilteredCatalog ] = useState([]);

@@ -1,0 +1,23 @@
+[33mcommit fc7c1cd119cf7d0476e40254a17c5a6100612c11[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Anzhelika-B <ab990393@gmail.com>
+Date:   Wed Mar 24 16:18:22 2021 +0200
+
+    3. commit before menu-bar
+
+[33mcommit d16330bae970cdc101915d2b097a6f017f230c56[m
+Author: Anzhelika-B <ab990393@gmail.com>
+Date:   Wed Mar 24 14:20:08 2021 +0200
+
+    2. commit footer
+
+[33mcommit 72bcbe000d695acec1e665ff068dc8447af93a6d[m
+Author: Anzhelika-B <ab990393@gmail.com>
+Date:   Wed Mar 24 13:55:31 2021 +0200
+
+    1. commit
+
+[33mcommit d1ac795f40839483fd79afa8dbfb912ed54c018a[m
+Author: Anzhelika-B <ab990393@gmail.com>
+Date:   Mon Mar 1 16:02:40 2021 +0200
+
+    Initialize project using Create React App

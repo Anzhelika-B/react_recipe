@@ -15,10 +15,9 @@ function App() {
     return (  
         <>
             <Router>
-                <Header />
+                <Header /> 
 
                     <main className='container content'>
-                    
                         <Switch>
                             <Route exact path='/'>
                                 <Home />
@@ -31,7 +30,6 @@ function App() {
 
                             <Route component={ NotFound } /> 
                         </Switch>   
-                    
                     </main>
 
                 <Footer />

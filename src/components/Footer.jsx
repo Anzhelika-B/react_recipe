@@ -1,11 +1,12 @@
 function Footer() {
     return (  
-        <footer className="page-footer #c0ca33 lime darken-1 ">
+        <footer className="page-footer lime darken-1 ">
               
             <div className="footer-copyright">
                 <div className="container">
-                    © { new Date().getFullYear()} Copyright Text
-                    <a className="grey-text text-lighten-4 right" href="#!">***</a>
+                    <h6 className="center-align">
+                        © { new Date().getFullYear()} Copyright Text
+                    </h6>    
                 </div>
             </div>
 

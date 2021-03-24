@@ -13,8 +13,9 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+
 nav {
-    padding: 0 1rem;
+    padding: 0 3rem;
 
 }
 
@@ -53,8 +54,7 @@ iframe {
 }
 
 .btn {
-    background-color: #c0ca33;
-    /* background-color: #087480; */
+    background-color: #afb42b;
     margin: auto;
     margin: 10px 0 10px;
 }
